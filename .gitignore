@@ -1,0 +1,91 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+.env/
+
+# Fichiers Python compilés
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Fichiers de distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Fichiers de logs
+*.log
+
+# Fichiers de l'IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration spécifiques à l'environnement
+instance/
+.webassets-cache
+
+# Fichiers de base de données SQLite
+*.sqlite
+
+# Fichiers de clés API ou de configuration sensibles
+*.env
+config.py
+
+# Fichiers de couverture de tests
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Fichiers de documentation générés
+docs/_build/
+
+# Fichiers spécifiques à Flask
+flask_session/
+
+# Fichiers spécifiques à Jupyter Notebook
+.ipynb_checkpoints
+
+# Fichiers de sauvegarde
+*.bak
+
+# Fichiers de données volumineux ou sensibles
+*.csv
+*.json
+*.pkl
+
+# Dossiers node si vous utilisez des outils frontend
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Fichiers de sauvegarde de l'éditeur
+*~

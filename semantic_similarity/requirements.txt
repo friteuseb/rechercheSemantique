@@ -1,0 +1,9 @@
+flask==2.0.1
+werkzeug==2.0.1
+flask-cors==3.0.10
+numpy>=1.25.0,<3.0
+openai==0.27.0
+scikit-learn
+huggingface_hub==0.8.1
+sentence-transformers
+faiss-cpu
