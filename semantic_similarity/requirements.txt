@@ -7,3 +7,4 @@ scikit-learn
 huggingface_hub==0.8.1
 sentence-transformers
 faiss-cpu
+python-dotenv
